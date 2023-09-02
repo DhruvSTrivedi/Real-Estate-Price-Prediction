@@ -11,7 +11,6 @@ This repository contains a Python script that performs linear regression on real
 - [Features](#features)
 - [Usage](#usage)
 - [Results](#results)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Dependencies
