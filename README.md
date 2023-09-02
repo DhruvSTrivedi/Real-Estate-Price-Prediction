@@ -63,9 +63,4 @@ python your_script_name.py
 - Initial observations show R-squared and adjusted R-squared values.
 - We've also provided a predicted price for an example input.
 - P-values for each feature are calculated to understand their significance. Based on our findings, the 'Year' feature may not be significant enough to include in our predictive model.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
