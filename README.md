@@ -34,16 +34,29 @@ The dataset (`real_estate_price_size_year.csv`) contains property details, inclu
 5. **Feature Significance**: Calculate p-values to understand the significance of each feature.
 
 ## Usage
+1. Setting up the environment:
+Ensure that you have all the dependencies installed. You can do this using pip:
+```
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
 
-1. Clone this repository:
-   ```
-   git clone <repository-link>
-   ```
-2. Navigate to the repository's directory and run the script:
-   ```
-   python <script-name>.py
-   ```
-3. View results and insights.
+2. Dataset:
+Place the 'real_estate_price_size_year.csv' in the same directory as your script.
+
+3. Running the script:
+Execute your Python script:
+```
+python your_script_name.py
+```
+
+4. Expected Output:
+
+- Initial data head and description.
+- Linear regression model's intercept, coefficients, R-squared, and Adjusted R-squared.
+- Predicted price for an apartment of 750 sq. ft. from the year 2015.
+- Univariate p-values of the variables.
+- Summary of the regression model's findings.
+- Observation on the significance of the 'Year' feature.
 
 ## Results
 
