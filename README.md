@@ -46,7 +46,7 @@ Place the 'real_estate_price_size_year.csv' in the same directory as your script
 3. Running the script:
 Execute your Python script:
 ```
-python your_script_name.py
+python main.py
 ```
 
 4. Expected Output:
